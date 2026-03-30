@@ -84,7 +84,7 @@ Building tech with barakah — Quran audio bots, reciters, prayer times, daily a
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=zaidlh&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 *"Automate the dunya, remember the akhirah."*
 
