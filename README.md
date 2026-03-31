@@ -31,6 +31,11 @@ developer = {
 
 ---
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
