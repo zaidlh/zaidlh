@@ -32,6 +32,7 @@ developer = {
 ---
 
 <!--START_SECTION:activity-->
+![snake](https://github.com/zaidlh/zaidlh/blob/output/github-contribution-grid-snake-dark.svg)
 <!--END_SECTION:activity-->
 
 ---
