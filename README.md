@@ -32,7 +32,7 @@ developer = {
 ---
 
 <!--START_SECTION:activity-->
-![snake](https://github.com/zaidlh/zaidlh/blob/output/github-contribution-grid-snake-dark.svg)
+1. 🗣 Commented on [#4](https://github.com/zaidlh/bot/pull/4#issuecomment-4313449855) in [zaidlh/bot](https://github.com/zaidlh/bot)
 <!--END_SECTION:activity-->
 
 ---
