@@ -32,7 +32,7 @@ developer = {
 ---
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/zaidlh/bot/pull/4#issuecomment-4313449855) in [zaidlh/bot](https://github.com/zaidlh/bot)
+1. 🎉 Merged PR [#30](https://github.com/zaidlh/quran-multi-lang-app/pull/30) in [zaidlh/quran-multi-lang-app](https://github.com/zaidlh/quran-multi-lang-app)
 <!--END_SECTION:activity-->
 
 ---
