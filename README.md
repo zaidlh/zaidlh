@@ -32,7 +32,7 @@ developer = {
 ---
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/zaidlh/anime-web/pull/1) in [zaidlh/anime-web](https://github.com/zaidlh/anime-web)
+1. 🎉 Merged PR [#38](https://github.com/zaidlh/quran-multi-lang-app/pull/38) in [zaidlh/quran-multi-lang-app](https://github.com/zaidlh/quran-multi-lang-app)
 <!--END_SECTION:activity-->
 
 ---
