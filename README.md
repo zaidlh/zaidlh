@@ -32,7 +32,7 @@ developer = {
 ---
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#38](https://github.com/zaidlh/quran-multi-lang-app/pull/38) in [zaidlh/quran-multi-lang-app](https://github.com/zaidlh/quran-multi-lang-app)
+1. ❌ Closed PR [#56](https://github.com/zaidlh/quran-multi-lang-app/pull/56) in [zaidlh/quran-multi-lang-app](https://github.com/zaidlh/quran-multi-lang-app)
 <!--END_SECTION:activity-->
 
 ---
